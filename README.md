@@ -1,16 +1,68 @@
-# React + Vite
+# 🚀 Crypto Tracker Website – Project Demo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+https://github.com/user-attachments/assets/95959e0c-129e-4dd9-9240-4ced736ea7e3
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+---
+
+## 📌 About This Project
+This is a **Crypto Tracker web application** that displays **real-time cryptocurrency prices and market data**.  
+Users can easily explore, search, sort, and view cryptocurrencies through a **modern, clean, and user-friendly interface**.
+
+---
+
+## 🚀 Features
+- 💰 View real-time cryptocurrency prices  
+- 🔍 Search any cryptocurrency by name  
+- 🔃 Sort cryptocurrencies by:
+  - Name (A–Z / Z–A)  
+  - Price (Low → High / High → Low)  
+  - Market Value  
+  - 24h Change  
+- 🔲 Toggle between **Grid view** & **List view**  
+- 📊 View detailed crypto information  
+- 📈 Price chart for selected cryptocurrency  
+- 🎨 Modern, dark & clean UI  
+- 📱 Fully responsive design  
+
+---
+
+## 🛠️ Tech Stack
+- 🌐 HTML5    
+- 🟨 JavaScript (ES6+)  
+- ⚛️ React JS  
+- ☁️ Crypto API (Live market data)
+
+---
+
+## 🎯 What I Learned
+- Working with real-time APIs  
+- Handling large dynamic datasets  
+- Implementing sorting & filtering logic  
+- Grid & list view UI patterns  
+- Responsive dashboard design  
+- Improving UX with clean layouts  
+
+---
+
+## 🌟 Future Improvements
+- User authentication  
+- Favorite cryptocurrencies feature  
+- Backend integration  
+- Price alerts & notifications  
+
+---
+
+## 👩‍💻 Developer
+**Rafia 😊**  
+Frontend Web Application Developer  
+📧 Email: [rafiach067@gmail.com](mailto:your-email@gmail.com)
+
+---
+
+✨ Thank you for checking out this project ✨
